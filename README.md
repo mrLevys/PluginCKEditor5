@@ -1,9 +1,10 @@
 # Technical Challenge
 
-Desafio Front-End para EasyJur, este template foi iniciado usando o Vite com HMR e regras de ESLint.
+Desafio Front-End para EasyJur, este template foi iniciado usando o Vite com HMR e regras de ESLint, com adição do CKEditor 5 na versão gratuita.
 
 Links das documentações oficiais dos plugins e dependências utilizados:
 
+- [CKEditor 5](https://ckeditor.com/docs/ckeditor5/latest/index.html)
 - [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [ESLint](https://eslint.org/docs/latest/use/getting-started)
